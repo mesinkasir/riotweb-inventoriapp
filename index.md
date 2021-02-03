@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# MODERN WEB APP SINGLE PAGE APPLICATION INCLUDE INVENTORI STOCK APPS MANAGEMENT BUILD WITH RIOT JS AND MILLIGRAM
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/riotweb-inventoriapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+See documentation and installation page :  
+[https://www.hockeycomputindo.com/2021/02/gratis-free-download-modern-website.html](https://www.hockeycomputindo.com/2021/02/gratis-free-download-modern-website.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Or play demo before download : [demo →](https://youtu.be/p-tcO2i_pcw)
 
-### Markdown
+Develope using riot js feat milligram
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![single page application web app inventori stock free download source code](https://a.fsdn.com/con/app/proj/riotjs/screenshots/create%20single%20app%20feat%20inventori%20apps%20free%20download%20source%20code%20gratis%20%286%29.png/max/max/1)
 
-```markdown
-Syntax highlighted code block
+Modern display singgle page apps website.
 
-# Header 1
-## Header 2
-### Header 3
+![single page application web app inventori stock free download source code](https://a.fsdn.com/con/app/proj/riotjs/screenshots/create%20single%20app%20feat%20inventori%20apps%20free%20download%20source%20code%20gratis%20%283%29.png/max/max/1)
 
-- Bulleted
-- List
+inventori stock apps is ready for using
 
-1. Numbered
-2. List
+![single page application web app inventori stock free download source code](https://a.fsdn.com/con/app/proj/riotjs/screenshots/create%20single%20app%20feat%20inventori%20apps%20free%20download%20source%20code%20gratis%20%284%29.png/max/max/1)
 
-**Bold** and _Italic_ and `Code` text
+Blast and fast website with light framework js and css with riot js feat milligram
 
-[Link](url) and ![Image](src)
-```
+![single page application web app inventori stock free download source code](https://a.fsdn.com/con/app/proj/riotjs/screenshots/create%20single%20app%20feat%20inventori%20apps%20free%20download%20source%20code%20gratis%20%282%29.png/max/max/1)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Inventori stock report management is ready
 
-### Jekyll Themes
+![single page application web app inventori stock free download source code](https://a.fsdn.com/con/app/proj/riotjs/screenshots/create%20single%20app%20feat%20inventori%20apps%20free%20download%20source%20code%20gratis%20%281%29.png/max/max/1)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/riotweb-inventoriapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Easy for insert and create new inventori product.
 
-### Support or Contact
+Free download and open source code , you can modify with you needed for learn riot js.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+How to install ?? need node npm and superstatic , then download this source code file.
+
+Download on [sourceforge →](https://sourceforge.net/projects/riotjs/)
+
+or fork clone on [github →](https://github.com/mesinkasir/riotweb-inventoriapp)
+
+for documentation and how to install :  
+[https://www.hockeycomputindo.com/2021/02/gratis-free-download-modern-website.html](https://www.hockeycomputindo.com/2021/02/gratis-free-download-modern-website.html)
+
+How this apps work ?? just play [Demo Video →](https://youtu.be/p-tcO2i_pcw)
+
+Happy codding....
